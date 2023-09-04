@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UildsonSantos
-- 👀 I’m interested in contribute to a better world
-- 🌱 I’m currently learning Java, Dotnet, Kotlin and others
+- 👀 I have a desire to make a difference in the world through the use of technology. 
+- 🌱 I’m currently learning Python, Flutter, Dart, ReactJS, Java, and others
 - 📫 How to reach me https://www.linkedin.com/in/uildson/
 
 <!---
